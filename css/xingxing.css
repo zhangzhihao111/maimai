@@ -1,0 +1,40 @@
+span{
+	display:block;
+	width:80px;
+	height:15px ;
+	background: url(../img/works_star_png24.png) no-repeat;
+}
+.star0{
+	background-position:0 0 ;
+}
+.star05{
+	background-position:0 -16px ;
+}
+.star10{
+	background-position:0 -32px ;
+}
+.star15{
+	background-position:0 -48px ;
+}
+.star20{
+	background-position:0 -64px ;
+}
+.star25{
+	background-position:0 -80px ;
+}
+.star30{
+	background-position:0 -96px ;
+}
+.star35{
+	background-position:0 -112px ;
+}
+.star40{
+	background-position:0 -128px ;
+}
+.star45{
+	background-position:0 -144px ;
+}
+.star50{
+	background-position:0 -160px ;
+}
+
